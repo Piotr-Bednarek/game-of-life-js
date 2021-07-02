@@ -1,2 +1,1 @@
-# game-of-life-js
- 
+# Simple representation of Conway's Game of Life
